@@ -1,2 +1,4 @@
 # Golden
-My personal repository
+## About me
+I am a computer science student with a strong interest in the creative industry. I love solving problems and creating something new. I chose computer science because it is one of those areas where I can develop myself the most effectively, and it goes along well with my personality. I love coding and am very curious about the digital world. Have I explored this world to its fullest degree? Definitely not, and I feel like I could use some direction. Because I know once I have clear information about the variables I am working with, I will stop at nothing to know and achieve the best performance in that field. I am currently interested in AI, cybersecurity, and computer systems. I feel like currently, I am focused more on learning than producing an output, which is the part I am trying to work on. Soft skills-wise, I am very sociable, organized, disciplined and can perform well under high-stress environments. When I am not caught up with studying, you will find me having fun with friends, reading, drawing, watching documentaries, or in the gym
+
